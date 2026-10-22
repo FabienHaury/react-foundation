@@ -143,6 +143,12 @@ Suggestions, improvements, and contributions are welcome.
 
 6. Commit your changes and open a pull request.
 
+## Acknowledgements
+
+This project was built as part of **Module B — React Foundation** of the [React + D3.js Data Visualization Course](https://www.react-graph-gallery.com/react-d3-dataviz-course).
+
+A big shout-out to [Yan Holtz](https://www.react-graph-gallery.com/) for creating the course and sharing his knowledge of React and data visualization! 🙌
+
 ## License
 
 No license is currently specified in the repository. Check the repository for licensing terms before reusing or redistributing the code.
